@@ -25,7 +25,7 @@ I build this project because why not? I'm curious how I can turn any existing lo
 ### 🖼️ Image/Logo
 
 - Existing logo of your company or organization. (Preferably in PNG format)
-- Dimension of the logo must be 800x800 pixels.
+- Dimension of the logo must be 512x512 pixels.
 - Must be in white color format or variation.
 
 ## 🚀 Getting Started
