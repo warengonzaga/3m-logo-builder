@@ -4,7 +4,7 @@
 
 [![by](https://img.shields.io/badge/by-Waren%20Gonzaga-blue.svg?labelColor=181717&style=flat-square)](https://github.com/warengonzaga) [![sponsors](https://img.shields.io/badge/sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/3m-logo-builder.svg?logo=github&labelColor=181717&color=green&style=flat-square)](https://github.com/warengonzaga/3m-logo-builder/releases) [![star](https://img.shields.io/github/stars/warengonzaga/3m-logo-builder.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/3m-logo-builder/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/3m-logo-builder.svg?&logo=github&labelColor=181717&style=flat-square)](https://github.com/warengonzaga/3m-logo-builder/blob/main/license)
 
-This project allows you to create a worth ₱3 Million logo for your company by adding a gradient of red and blue color (PAGCOR new logo style) into your existing logo. 😂
+The **3 Million Logo Builder** is a simple Node.js tool that allows you to make your logo worth ₱3 Million by adding crazy gradient overlay into your existing logo programmatically. ([icymi](https://mb.com.ph/2023/7/13/nagsasayang-ng-pera-house-probe-on-pagcor-s-new-logo-sought)) 😂😂😂
 
 ## 📷 Demo
 
