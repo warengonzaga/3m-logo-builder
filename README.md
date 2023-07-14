@@ -1,6 +1,6 @@
 # 3 Million Logo Builder
 
-> **Note:** This is a meme open-source project. It is not intended to be used in production. Use this at your own risk. 😂😂😂
+> **Warning**: This is a meme open-source project. It is not intended to be used in production. Use this at your own risk. 😂😂😂
 
 [![by](https://img.shields.io/badge/by-Waren%20Gonzaga-blue.svg?labelColor=181717&style=flat-square)](https://github.com/warengonzaga) [![sponsors](https://img.shields.io/badge/sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/3m-logo-builder.svg?logo=github&labelColor=181717&color=green&style=flat-square)](https://github.com/warengonzaga/3m-logo-builder/releases) [![star](https://img.shields.io/github/stars/warengonzaga/3m-logo-builder.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/3m-logo-builder/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/3m-logo-builder.svg?&logo=github&labelColor=181717&style=flat-square)](https://github.com/warengonzaga/3m-logo-builder/blob/main/license)
 
